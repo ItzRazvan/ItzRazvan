@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @ItzRazvan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: -Twitter: @
+-I am a multi-skilled software developer with a solid foundation in Java, React, HTML, CSS, and JavaScript
+-I have experience in creating web applications using React Native, I am also proficient in jQuery
+-Currently expanding my skillset to include PHP and Node.js
+-I have a portfolio of projects including custom websites and a calculator built with React Native
 
-Here are some of my projects. Im still new to Java, so i hope i will see some development.
-
-<!---
-ItzRazvan/ItzRazvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Continuously learning and striving to expand my knowledge in the tech industry
